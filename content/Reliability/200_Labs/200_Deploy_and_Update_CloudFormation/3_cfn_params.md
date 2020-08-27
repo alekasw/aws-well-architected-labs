@@ -25,8 +25,8 @@ In this task, you will gain experience changing CloudFormation stack parameters 
 1. Click **Next** again, until you arrive at the **Review CloudFormationLab** screen
     1. Scroll down to **Change set preview** and note several resources are being added
     1. At the bottom of the page, select **I acknowledge that AWS CloudFormation might create IAM resources with custom names**
-    1. Click **Create stack**
-1. When stack **status** is _CREATE_COMPLETE_ for your update (about one minute) then continue
+    1. Click **Update stack**
+1. When stack **status** is _UPDATE_COMPLETE_ for your update (about one minute) then continue
 
 ## 2.2 Understanding the deployment
 
